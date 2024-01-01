@@ -1,0 +1,4 @@
+baseURL = 'https://liyannvan.github.io'
+languageCode = 'zh-CN'
+title = '李姲正传'
+theme = 'ananke'
